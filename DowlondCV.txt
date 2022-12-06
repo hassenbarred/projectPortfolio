@@ -1,0 +1,20 @@
+My Skills of JavaScript:
+-Contribute to all stages of software development lifecycle
+-Design, implement and maintain Java-based applications that can be high-volume and low-latency
+-Analyze user requirements to define business objectives
+-Envisioning system features and functionality
+-Define application objectives and functionality
+-Ensure application designs conform with business goals
+-Develop and test software
+-Identify and resolve any technical issues arising
+-Create detailed design documentation
+-Propose changes to current Java infrastructure
+-Develop technical designs for application development
+-Develop multimedia applications
+-Write well designed, testable code
+-Conducting software analysis, programming, testing, and debugging
+-Manage Java and Java EE application development
+-Develop documentation to help users
+-Transforming requirements into stipulations
+-Prepare and produce releases of software components
+Support continuous improvement, investigating alternatives and technologies, and presenting for architectural review
